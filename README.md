@@ -3,7 +3,7 @@
 [youtube: jacs121 gaming](<https://www.youtube.com/channel/UC_A7gNOEWHYAmW4VNGFbAKA>)\
 [github: jacs121](<https://github.com/jacs121>)
 
-${\color{red}\bold{this\space mod\space pack\space is\space for\space good\space PCs}}$
+${\color{red}this\space mod\space pack\space is\space for\space good\space PCs}$
 
 mods:
 
