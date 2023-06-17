@@ -1,4 +1,4 @@
-# ${\color{darkgreen} m\color{green} y\color{lightgreen}\space f\color{yellow} o\color{pink} r\color{orange} g\color{red} e\color{purple}\space c\color{darkblue} r\color{blue} a\color{darkgreen} f\color{green} t\color{lightgreen}}$
+# ${\color{darkgreen} m\color{green} y\color{lightgreen}\space f\color{pink} o\color{yellow} r\color{orange} g\color{red} e\color{purple}\space c\color{darkblue} r\color{blue} a\color{darkgreen} f\color{green} t\color{lightgreen}}$
 
 [youtube: jacs121 gaming](<https://www.youtube.com/channel/UC_A7gNOEWHYAmW4VNGFbAKA>)\
 [github: jacs121](<https://github.com/jacs121>)
