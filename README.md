@@ -1,10 +1,11 @@
-# my forge craft
+# ${\color{darkgreen} m\color{green} y\color{lightgreen}\space f\color{yellow} o\color{pink} r\color{orange} g\color{red} e\color{purple}\space c\color{darkblue} r\color{blue} a\color{darkgreen} f\color{green} t\color{lightgreen}}$
 
-### ${\color{red}this\space mod\space pack\space is\space for\space good\space PCs}$
+[youtube: jacs121 gaming](<https://www.youtube.com/channel/UC_A7gNOEWHYAmW4VNGFbAKA>)\
+[github: jacs121](<https://github.com/jacs121>)
 
----
+${\color{red}this\space mod\space pack\space is\space for\space good\space PCs}$
 
-## mods
+mods:
 
 ```text
 - Mouse Tweaks (by YaLTeR)
