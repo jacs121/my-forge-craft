@@ -1,101 +1,105 @@
 # my forge craft
-warning: this mod pack is for good PCs
 
+### ${\color{red}this\space mod\space pack\space is\space for\space good\space PCs}$
 
-**mods**
+---
 
-Mouse Tweaks (by YaLTeR)
+## mods
 
-Mekanism Additions (by bradyaidanc)
+```text
+- Mouse Tweaks (by YaLTeR)
 
-Curios API (Forge) (by TheIllusiveC4)
+- Mekanism Additions (by bradyaidanc)
 
-Ender-Rift (by gigahertz)
+- Curios API (Forge) (by TheIllusiveC4)
 
-Advancement Plus - Mekanism Extension (by KhanhTypo)
+- Ender-Rift (by gigahertz)
 
-FTB Teams (Forge) (by FTB)
+- Advancement Plus - Mekanism Extension (by KhanhTypo)
 
-Obfuscate (by MrCrayfish)
+- FTB Teams (Forge) (by FTB)
 
-Farmer's Delight (by vectorwing)
+- Obfuscate (by MrCrayfish)
 
-Mekanism Generators (by bradyaidanc)
+- Farmer's Delight (by vectorwing)
 
-Architectury API (Fabric/Forge) (by shedaniel)
+- Mekanism Generators (by bradyaidanc)
 
-Simple Planes (Forge) (by przemykomo)
+- Architectury API (Fabric/Forge) (by shedaniel)
 
-Create Style Mekanism Pipes (by Anthxny)
+- Simple Planes (Forge) (by przemykomo)
 
-FTB Library (Forge) (by FTB)
+- Create Style Mekanism Pipes (by Anthxny)
 
-Just Enough Items (JEI) (by mezz)
+- FTB Library (Forge) (by FTB)
 
-Oh The Biomes You'll Go (by AOCAWOL)
+- Just Enough Items (JEI) (by mezz)
 
-Sophisticated Backpacks (by P3pp3rF1y)
+- Oh The Biomes You'll Go (by AOCAWOL)
 
-Excalibur (by Maffhew)
+- Sophisticated Backpacks (by P3pp3rF1y)
 
-Create Goggles (Create Plus) (by Robocraft999)
+- Excalibur (by Maffhew)
 
-CodeChicken Lib 1.8.+ (by covers1624)
+- Create Goggles (Create Plus) (by Robocraft999)
 
-MmmMmmMmmMmm (Target Dummy) (by MehVahdJukaar)
+- CodeChicken Lib 1.8.+ (by covers1624)
 
-Xaero's Minimap (by xaero96)
+- MmmMmmMmmMmm (Target Dummy) (by MehVahdJukaar)
 
-Just Enough Resources (JER) (by way2muchnoise)
+- Xaero's Minimap (by xaero96)
 
-Create (by simibubi)
+- Just Enough Resources (JER) (by way2muchnoise)
 
-OpenBlocks Elevator (by vsngarcia)
+- Create (by simibubi)
 
-Simple Voice Chat (by henkelmax)
+- OpenBlocks Elevator (by vsngarcia)
 
-Flywheel (by jozufozu)
+- Simple Voice Chat (by henkelmax)
 
-Xaero's World Map (by xaero96)
+- Flywheel (by jozufozu)
 
-Ring of the Enderchest [FORGE] (by kwpugh)
+- Xaero's World Map (by xaero96)
 
-Jade 🔍 (by Snownee_)
+- Ring of the Enderchest [FORGE] (by kwpugh)
 
-Freecam (Fabric/Forge) (by hashalites)
+- Jade 🔍 (by Snownee_)
 
-Mekanism Tweaks (by nin8995)
+- Freecam (Fabric/Forge) (by hashalites)
 
-AppleSkin (by squeek502)
+- Mekanism Tweaks (by nin8995)
 
-Distant Horizons: A Level of Detail mod (by James_Seibel)
+- AppleSkin (by squeek502)
 
-Oculus (by Asek3)
+- Distant Horizons: A Level of Detail mod (by James_Seibel)
 
-Waystones (by BlayTheNinth)
+- Oculus (by Asek3)
 
-Mekanism (by bradyaidanc)
+- Waystones (by BlayTheNinth)
 
-Ender Storage 1.8.+ (by covers1624)
+- Mekanism (by bradyaidanc)
 
-Moonlight Lib (by MehVahdJukaar)
+- Ender Storage 1.8.+ (by covers1624)
 
-Timeless and Classics Guns (by TheRealClumsyAlien)
+- Moonlight Lib (by MehVahdJukaar)
 
-Pufferfish's Skills [Forge & Fabric] (by Pufferfish)
+- Timeless and Classics Guns (by TheRealClumsyAlien)
 
-Portal Gun Mod (by PuglordPeter)
+- Pufferfish's Skills [Forge & Fabric] (by Pufferfish)
 
-ESSENTIAL Mod (by SparkUniverse_)
+- Portal Gun Mod (by PuglordPeter)
 
-ReAuth (by TechnicianLP)
+- ESSENTIAL Mod (by SparkUniverse_)
 
-Create Curios Goggles [DISCONTINUED] (by OrangeJewce92)
+- ReAuth (by TechnicianLP)
 
-Mekanism Tools (by bradyaidanc)
+- Create Curios Goggles [DISCONTINUED] (by OrangeJewce92)
 
-Eclectic Trove (Legendary Tooltips) (by Grend_G)
+- Mekanism Tools (by bradyaidanc)
 
-Rubidium (by Asek3)
+- Eclectic Trove (Legendary Tooltips) (by Grend_G)
 
-Simple Discord Rich Presence (Forge / Fabric) (by Sunekaer)
+- Rubidium (by Asek3)
+
+- Simple Discord Rich Presence (Forge / Fabric) (by Sunekaer)
+```
